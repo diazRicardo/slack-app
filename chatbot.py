@@ -24,3 +24,5 @@ def message_handler(body, context, payload, options, say, event):
 if __name__ == "__main__":
     handler = SocketModeHandler(chatbot_app, SLACK_APP_TOKEN)
     handler.start()
+
+# this app is not done yet
