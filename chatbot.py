@@ -25,4 +25,4 @@ if __name__ == "__main__":
     handler = SocketModeHandler(chatbot_app, SLACK_APP_TOKEN)
     handler.start()
 
-# this app is not done yet
+# this app is not done yet my friend
