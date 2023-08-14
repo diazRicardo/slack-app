@@ -1,4 +1,4 @@
-# Slack-app
+# Travelbot
 2023 ACA Technical project by Ricardo Diaz
 
 Say hello to travelbot! Your best travel guide when it comes to traveling to a selection of cities. 
